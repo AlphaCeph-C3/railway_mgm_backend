@@ -1,0 +1,9 @@
+db_config = {
+    "host": "localhost",
+    "user": "root",
+    "database": "railway",
+    "password": "password",
+    "raise_on_warnings": True,
+}
+
+this file should be named config.py
