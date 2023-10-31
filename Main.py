@@ -1,4 +1,3 @@
-from crypt import methods
 from flask import Flask, g, request
 import mysql.connector as connector
 from config import db_config
